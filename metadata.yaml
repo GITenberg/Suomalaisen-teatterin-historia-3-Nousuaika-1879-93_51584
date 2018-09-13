@@ -1,0 +1,27 @@
+_repo: Suomalaisen-teatterin-historia-3-Nousuaika-1879-93_51584
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aspelin-Haapkylä, Eliel
+    aliases:
+    - Aspelin-Haapkyla, Eliel
+    - Aspelin, Eliel
+    birthdate: 1847
+    deathdate: 1917
+    gutenberg_agent_id: '42975'
+    url: http://www.gutenberg.org/2009/agents/42975
+description: ''
+gutenberg_issued: '2016-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51584'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Theater -- Finland'
+- GITenberg
+title: "Suomalaisen teatterin historia 3\r\nNousuaika, 1879-93."
+url: http://www.gutenberg.org/ebooks/51584
